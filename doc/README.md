@@ -1,4 +1,4 @@
 Project documentation.
 
-Glossary.odt - project glossary
-ProjectOverview.odt - a brief description of the problem to solve, project goals and scope
+accepta.uml - system model collection.
+Accepta System Structure.png - the diagram of the Accepta system structure.png (for Wiki).
