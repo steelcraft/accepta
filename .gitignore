@@ -1,2 +1,12 @@
 /software/firmware/.settings
 *.bak
+*.cyclo
+*.d
+*.o
+*.su
+*.mk
+makefile
+*.elf
+*.list
+*.map
+*.launch
