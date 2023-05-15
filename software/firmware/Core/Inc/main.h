@@ -57,6 +57,10 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define HOST_Tx_Pin GPIO_PIN_6
+#define HOST_Tx_GPIO_Port GPIOB
+#define HOST_Rx_Pin GPIO_PIN_7
+#define HOST_Rx_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
