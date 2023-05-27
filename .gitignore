@@ -10,3 +10,4 @@ makefile
 *.list
 *.map
 *.launch
+*.ldb
